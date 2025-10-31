@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3975586646041136600
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2005570787938316758, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4851619212983020308, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f3117ebc2869df84cb155a4adda39025, type: 2}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7420504148905079444, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8722177365792893037, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
+      propertyPath: m_Name
+      value: Enemy Death VFX Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 95503234e0b92274a93c1671e9ed2608, type: 3}
